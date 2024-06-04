@@ -1,0 +1,9 @@
+
+<suite name="Suite" parallel="classes">
+  <test thread-count="5" name="Test" parallel="classes">
+    <classes>
+      <class name="test.TestNGDemo"/>
+      <class name="test.TestNGDemo2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
