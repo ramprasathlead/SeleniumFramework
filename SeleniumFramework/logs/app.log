@@ -1,0 +1,12 @@
+[INFO ] 2024-06-05 08:10:47.288 [main] Log4jDemo - I am informer
+[WARN ] 2024-06-05 08:10:47.290 [main] Log4jDemo - I am warner
+[ERROR] 2024-06-05 08:10:47.290 [main] Log4jDemo - I am error
+[FATAL] 2024-06-05 08:10:47.290 [main] Log4jDemo - I am fatal
+[INFO ] 2024-06-05 08:10:53.071 [main] Log4jDemo - I am informer
+[WARN ] 2024-06-05 08:10:53.073 [main] Log4jDemo - I am warner
+[ERROR] 2024-06-05 08:10:53.074 [main] Log4jDemo - I am error
+[FATAL] 2024-06-05 08:10:53.074 [main] Log4jDemo - I am fatal
+[INFO ] 2024-06-05 08:11:00.553 [main] Log4jDemo - I am informer
+[WARN ] 2024-06-05 08:11:00.556 [main] Log4jDemo - I am warner
+[ERROR] 2024-06-05 08:11:00.556 [main] Log4jDemo - I am error
+[FATAL] 2024-06-05 08:11:00.556 [main] Log4jDemo - I am fatal
