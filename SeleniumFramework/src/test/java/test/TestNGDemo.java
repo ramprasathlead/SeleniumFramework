@@ -17,6 +17,7 @@ public class TestNGDemo {
 	public void setUp() {
 		
 		WebDriverManager.chromedriver().setup();
+		//System.setProperty("webdriver.chrome.driver", null)
 		driver=new ChromeDriver();
 			//	WebDriver driver	 = new ChromeDriver();
 				driver.get("https://google.com/");
