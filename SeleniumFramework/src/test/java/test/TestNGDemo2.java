@@ -31,6 +31,17 @@ public class TestNGDemo2 {
 		
 		
 	}
+	
+	
+	@Test
+	public void googleSearch3() {
+		WebElement	textArea=	driver.findElement((By.xpath("//textarea[@title='Search']")));
+		textArea.sendKeys("Automation Step By Step");
+		textArea.sendKeys(Keys.RETURN);
+		System.out.println("Entered Value");
+		
+		
+	}
 	@AfterTest
 	public void tearDown() {
 		

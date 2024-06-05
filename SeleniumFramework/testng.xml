@@ -3,7 +3,9 @@
   <test thread-count="5" name="Test" parallel="classes">
     <classes>
       <class name="test.TestNGDemo"/>
-      <class name="test.TestNGDemo2"/>
+      <class name="test.TestNGDemo2">	
+		<methods><include name="googleSearch3"></include></methods>
+	  </class>	
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
