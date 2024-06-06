@@ -1,0 +1,32 @@
+[INFO ] 2024-06-05 08:10:47.288 [main] Log4jDemo - I am informer
+[WARN ] 2024-06-05 08:10:47.290 [main] Log4jDemo - I am warner
+[ERROR] 2024-06-05 08:10:47.290 [main] Log4jDemo - I am error
+[FATAL] 2024-06-05 08:10:47.290 [main] Log4jDemo - I am fatal
+[INFO ] 2024-06-05 08:10:53.071 [main] Log4jDemo - I am informer
+[WARN ] 2024-06-05 08:10:53.073 [main] Log4jDemo - I am warner
+[ERROR] 2024-06-05 08:10:53.074 [main] Log4jDemo - I am error
+[FATAL] 2024-06-05 08:10:53.074 [main] Log4jDemo - I am fatal
+[INFO ] 2024-06-05 08:11:00.553 [main] Log4jDemo - I am informer
+[WARN ] 2024-06-05 08:11:00.556 [main] Log4jDemo - I am warner
+[ERROR] 2024-06-05 08:11:00.556 [main] Log4jDemo - I am error
+[FATAL] 2024-06-05 08:11:00.556 [main] Log4jDemo - I am fatal
+[INFO ] 2024-06-05 17:16:49.290 [main] ExceptionHandlingDemo - I am started execution
+[INFO ] 2024-06-05 17:17:29.941 [main] ExceptionHandlingDemo - I am started execution
+[INFO ] 2024-06-05 17:17:29.944 [main] ExceptionHandlingDemo - I have handled exception
+[INFO ] 2024-06-05 17:18:29.434 [main] ExceptionHandlingDemo - I am started execution
+[INFO ] 2024-06-05 17:18:29.437 [main] ExceptionHandlingDemo - I have handled exception
+[WARN ] 2024-06-05 20:16:08.895 [main] ZipPackage - Error in zip file C:\Users\rampr\git\SeleniumFramework\SeleniumFramework\SeleniumFramework\excel\data.xlsx - falling back to stream processing (i.e. ignoring zip central directory)
+[DEBUG] 2024-06-05 20:18:03.282 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-05 20:18:03.285 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-06-05 20:35:44.140 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-05 20:35:44.145 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-06-05 20:36:00.419 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-05 20:36:00.423 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-06-05 20:36:00.742 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-05 20:36:00.743 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-06-05 21:09:32.599 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-05 21:09:32.603 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-06-05 21:09:32.919 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-05 21:09:32.920 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-06-05 21:16:40.187 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-05 21:16:40.191 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
