@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite"  parallel="tests" thread-count="3">
+  <test name="TestChrome1">
+	
+	<parameter name="browserName" value="chrome"></parameter>
+    <classes>
+      <class name="test.MultipleBrowserTestNg"/>
+    </classes>
+  </test>
+  
+   <test  name="TestChrome2">
+	
+	<parameter name="browserName" value="chrome"></parameter>
+    <classes>
+      <class name="test.MultipleBrowserTestNg"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
