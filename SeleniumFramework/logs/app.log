@@ -18,3 +18,7 @@
 [DEBUG] 2024-06-06 16:15:44.185 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
 [DEBUG] 2024-06-06 17:03:34.739 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
 [DEBUG] 2024-06-06 17:03:34.751 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-06-06 17:06:02.226 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-06 17:06:02.233 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-06-06 17:08:14.401 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-06 17:08:14.405 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels

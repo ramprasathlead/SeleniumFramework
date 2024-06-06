@@ -14,7 +14,7 @@ public class getExcelDatas {
 		  int colCount=  exceldata.getExcelColCount();
 		  int rowCount=  exceldata.getExcelRowCount();
 		  
-		  Object data[][]= new Object[rowCount-1][colCount-1];
+		//  Object data[][]= new Object[rowCount-1][colCount-1];
 		  
 		  for(int i=1; i<rowCount;i++) {
 			  
@@ -24,7 +24,7 @@ public class getExcelDatas {
 				 
 		String cellStringValue=		  exceldata.getStringCellData(i, j);
 		System.out.println(cellStringValue);
-		data[i-1][j]=cellStringValue;
+	//	data[i-1][j]=cellStringValue;
 		
 				  
 			  }
